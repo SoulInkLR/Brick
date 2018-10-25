@@ -1,2 +1,0 @@
-# Brick
-Arcade brick game
